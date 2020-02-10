@@ -1,0 +1,11 @@
+C:\Users\Dane.Meister\source\repos\EulerProblem1\EulerProblem1\bin\Debug\netcoreapp3.0\EulerProblem1.exe
+C:\Users\Dane.Meister\source\repos\EulerProblem1\EulerProblem1\bin\Debug\netcoreapp3.0\EulerProblem1.deps.json
+C:\Users\Dane.Meister\source\repos\EulerProblem1\EulerProblem1\bin\Debug\netcoreapp3.0\EulerProblem1.runtimeconfig.json
+C:\Users\Dane.Meister\source\repos\EulerProblem1\EulerProblem1\bin\Debug\netcoreapp3.0\EulerProblem1.runtimeconfig.dev.json
+C:\Users\Dane.Meister\source\repos\EulerProblem1\EulerProblem1\bin\Debug\netcoreapp3.0\EulerProblem1.dll
+C:\Users\Dane.Meister\source\repos\EulerProblem1\EulerProblem1\bin\Debug\netcoreapp3.0\EulerProblem1.pdb
+C:\Users\Dane.Meister\source\repos\EulerProblem1\EulerProblem1\obj\Debug\netcoreapp3.0\EulerProblem1.csprojAssemblyReference.cache
+C:\Users\Dane.Meister\source\repos\EulerProblem1\EulerProblem1\obj\Debug\netcoreapp3.0\EulerProblem1.AssemblyInfoInputs.cache
+C:\Users\Dane.Meister\source\repos\EulerProblem1\EulerProblem1\obj\Debug\netcoreapp3.0\EulerProblem1.AssemblyInfo.cs
+C:\Users\Dane.Meister\source\repos\EulerProblem1\EulerProblem1\obj\Debug\netcoreapp3.0\EulerProblem1.dll
+C:\Users\Dane.Meister\source\repos\EulerProblem1\EulerProblem1\obj\Debug\netcoreapp3.0\EulerProblem1.pdb

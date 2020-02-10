@@ -1,0 +1,11 @@
+C:\Users\Dane.Meister\source\repos\C-Sharp_Test_1\C-Sharp_Test_1\bin\Debug\netcoreapp3.0\C-Sharp_Test_1.exe
+C:\Users\Dane.Meister\source\repos\C-Sharp_Test_1\C-Sharp_Test_1\bin\Debug\netcoreapp3.0\C-Sharp_Test_1.deps.json
+C:\Users\Dane.Meister\source\repos\C-Sharp_Test_1\C-Sharp_Test_1\bin\Debug\netcoreapp3.0\C-Sharp_Test_1.runtimeconfig.json
+C:\Users\Dane.Meister\source\repos\C-Sharp_Test_1\C-Sharp_Test_1\bin\Debug\netcoreapp3.0\C-Sharp_Test_1.runtimeconfig.dev.json
+C:\Users\Dane.Meister\source\repos\C-Sharp_Test_1\C-Sharp_Test_1\bin\Debug\netcoreapp3.0\C-Sharp_Test_1.dll
+C:\Users\Dane.Meister\source\repos\C-Sharp_Test_1\C-Sharp_Test_1\bin\Debug\netcoreapp3.0\C-Sharp_Test_1.pdb
+C:\Users\Dane.Meister\source\repos\C-Sharp_Test_1\C-Sharp_Test_1\obj\Debug\netcoreapp3.0\C-Sharp_Test_1.csprojAssemblyReference.cache
+C:\Users\Dane.Meister\source\repos\C-Sharp_Test_1\C-Sharp_Test_1\obj\Debug\netcoreapp3.0\C-Sharp_Test_1.AssemblyInfoInputs.cache
+C:\Users\Dane.Meister\source\repos\C-Sharp_Test_1\C-Sharp_Test_1\obj\Debug\netcoreapp3.0\C-Sharp_Test_1.AssemblyInfo.cs
+C:\Users\Dane.Meister\source\repos\C-Sharp_Test_1\C-Sharp_Test_1\obj\Debug\netcoreapp3.0\C-Sharp_Test_1.dll
+C:\Users\Dane.Meister\source\repos\C-Sharp_Test_1\C-Sharp_Test_1\obj\Debug\netcoreapp3.0\C-Sharp_Test_1.pdb

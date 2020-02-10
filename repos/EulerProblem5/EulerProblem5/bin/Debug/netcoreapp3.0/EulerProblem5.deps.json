@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "EulerProblem5/1.0.0": {
+        "runtime": {
+          "EulerProblem5.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EulerProblem5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
